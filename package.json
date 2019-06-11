@@ -1,7 +1,7 @@
 {
-  "name": "trivago",
+  "name": "Optile",
   "version": "1.0.0",
-  "description": "Trivago",
+  "description": "Optile",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
